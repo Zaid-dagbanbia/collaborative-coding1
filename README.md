@@ -3,3 +3,4 @@
 ## Feature 1
 
 - Life is good
+## Feature 2
